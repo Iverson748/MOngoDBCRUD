@@ -94,7 +94,8 @@ title : Avatar
 db.movies.insert({title:&quot;Avatar&quot;})
 
 # Screenshots:
-![image](https://github.com/user-attachments/assets/1c1cd9d8-05bf-44ce-9b6d-634b9ff57555)
+![image](https://github.com/user-attachments/assets/90d21467-475d-4a8c-8ca0-af8abc0dd94a)
+![image](https://github.com/user-attachments/assets/7b52ab44-ffa5-4b33-b9e5-dd96c967d2b9)
 ![image](https://github.com/user-attachments/assets/9b47b4d6-9db6-4a4b-acc4-a6a016e01701)
 ![image](https://github.com/user-attachments/assets/7beb9174-272d-4424-9e0f-0aeb769095b5)
 ![image](https://github.com/user-attachments/assets/cf91e655-ca73-4e4e-9679-0ee8846382b0)
