@@ -147,10 +147,10 @@ db.movies.find({$and:[{synopsis:{$regex:"gold"}}, {synopsis:{$regex:"dragon"}}]}
 ## Screenshots:
 
 ![image](https://github.com/user-attachments/assets/a08cb83f-e72a-4597-bb1e-3a8d4a773bc2)
-![image](https://github.com/user-attachments/assets/a7a93f55-3aa9-4904-b7ce-f24a681d6d32)
-![image](https://github.com/user-attachments/assets/2e6fe5a9-7260-4736-a264-cfb22c48d4a0)
-![image](https://github.com/user-attachments/assets/ee86e77c-e6a9-4048-8e6b-1688feab3e63)
-![image](https://github.com/user-attachments/assets/b6ce47ee-c3f5-404e-9e9d-c016f8bd9b14)
+![image](https://github.com/user-attachments/assets/71a394ea-ac7a-4932-803a-3f086cdc5da8)
+![image](https://github.com/user-attachments/assets/2f34e081-d5a7-4211-99be-630a2b6ec434)
+![image](https://github.com/user-attachments/assets/714c31fd-c4cc-44b7-a584-343074f43e69)
+![image](https://github.com/user-attachments/assets/881a0583-edec-4010-9437-2607bb6de28a)
 
 
 ## Delete Documents
