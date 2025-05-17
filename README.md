@@ -118,7 +118,7 @@ db.movies.updateOne({_id:ObjectId("5c9fa42ae5c2dfe9b3729c03")}, {$set:{synopsis:
 
 db.movies.updateOne({_id:ObjectId("5c9f983ce5c2dfe9b3729bfc")}, {$push:{actors:"Samuel L. Jackson"}})
 
-## Screenshots
+## Screenshots:
 ![1ex](https://github.com/user-attachments/assets/12b51cfe-64bc-45e8-9a5c-86360390271c)
 ![image](https://github.com/user-attachments/assets/4b35f421-0251-444f-8291-d90802fb70e0)
 ![image](https://github.com/user-attachments/assets/29829b73-535c-443a-a45e-e7eca8ef5e43)
