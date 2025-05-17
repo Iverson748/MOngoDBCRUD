@@ -147,9 +147,13 @@ db.movies.find({$and:[{synopsis:{$regex:"gold"}}, {synopsis:{$regex:"dragon"}}]}
 ## Screenshots:
 
 ![image](https://github.com/user-attachments/assets/a08cb83f-e72a-4597-bb1e-3a8d4a773bc2)
+db.movies.find({synopsis:{$regex:"Gandalf"}})
 ![image](https://github.com/user-attachments/assets/71a394ea-ac7a-4932-803a-3f086cdc5da8)
+db.movies.find({$and:[{synopsis:{$regex:"Bilbo"}}, {synopsis:{$not:/Gandalf/}}]})
 ![image](https://github.com/user-attachments/assets/2f34e081-d5a7-4211-99be-630a2b6ec434)
+db.movies.find({$or:[{synopsis:{$regex:"dwarves"}}, {synopsis:{$regex:"hobbit"}}]})
 ![image](https://github.com/user-attachments/assets/714c31fd-c4cc-44b7-a584-343074f43e69)
+db.movies.find({$and:[{synopsis:{$regex:"gold"}}, {synopsis:{$regex:"dragon"}}]})
 ![image](https://github.com/user-attachments/assets/881a0583-edec-4010-9437-2607bb6de28a)
 
 
